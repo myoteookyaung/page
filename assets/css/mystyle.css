@@ -1,0 +1,12 @@
+.footerphoto{
+margin-top:20px;
+float:left;
+margin-left:360px;
+
+}
+.footerphoto img{
+width:30%;
+height:30%;
+border:1px solid red;
+padding-left:30px;
+}
